@@ -5,8 +5,8 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
+        "adventure.ts",
+        "adventure.jres",
         "README.md",
         "assets.json"
     ],
