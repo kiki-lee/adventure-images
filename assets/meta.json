@@ -1,1 +1,10 @@
-
+{
+    "blockIdentity": "images._image",
+    "creator": "image.ofBuffer",
+    "basename": "adventure",
+    "star": {
+        "namespace": "sprites.adventure",
+        "mimeType": "image/x-mkcd-f4"
+    },
+    "tags": "adventure"
+}
